@@ -31,13 +31,66 @@ Also, over the course of the semester students will each write a research paper 
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation | 15% |
-| Weekly assignments (questions before class and analysis of primary sources) | 30% |
-| Topic proposal and presentation | 15% |
-| Research paper | 35% |
-| Final presentation | 5% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly assignments (questions before class and analysis of primary sources)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Topic proposal and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Research paper
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final presentation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For detail on the activities above, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
